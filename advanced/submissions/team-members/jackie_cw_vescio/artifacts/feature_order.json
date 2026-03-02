@@ -1,0 +1,17 @@
+[
+  "age",
+  "trestbps",
+  "chol",
+  "thalch",
+  "oldpeak",
+  "outlier_flag",
+  "sex_idx",
+  "dataset_idx",
+  "cp_idx",
+  "fbs_idx",
+  "restecg_idx",
+  "exang_idx",
+  "slope_idx",
+  "ca_idx",
+  "thal_idx"
+]
